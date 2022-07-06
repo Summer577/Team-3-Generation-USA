@@ -48,7 +48,7 @@
             </div>
         </section>
         <!-- Image element - set the background image for the header in the line below-->
-        <div class="py-1 bg-image-full" style="background-image: url('https://t4.ftcdn.net/jpg/03/61/82/93/360_F_361829336_GWe1wR8L92MnIKcCIyrwaZQp0rG36XJC.jpg')">
+        <div class="py-1 bg-image-full" style="background-image: url('https://www.birdlife.org/wp-content/uploads/2021/06/ArcticTernB1_Markus-Varesvuo-scaled-e1622803442540.jpg')">
             <!-- Put anything you want here! The spacer below with inline CSS is just for demo purposes!-->
             <div style="height: 20rem"></div>
         </div>
